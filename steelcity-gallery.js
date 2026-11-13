@@ -1,3 +1,4 @@
+// Cloudflare Pages deployment refresh.
 (()=>{'use strict';
 // Refresh Cloudflare Pages deployment (gallery update).
 
