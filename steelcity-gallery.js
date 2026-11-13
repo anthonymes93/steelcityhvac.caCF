@@ -1,4 +1,4 @@
-// Cloudflare Pages deployment refresh.
+// Cloudflare Pages deployment refresh (second trigger).
 (()=>{'use strict';
 // Refresh Cloudflare Pages deployment (gallery update).
 
